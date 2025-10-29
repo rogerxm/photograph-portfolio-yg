@@ -66,7 +66,7 @@ export default function GaleriaBodasPage() {
           Permíteme ser parte de tu historia y capturar tus propios momentos.
         </p>
         <Link
-          href="/contacto"
+          href="/contact"
           className="inline-block bg-gray-900 text-white font-bold py-3 px-10 rounded-lg text-lg hover:bg-gray-700 transition-colors duration-300"
         >
           Contáctame

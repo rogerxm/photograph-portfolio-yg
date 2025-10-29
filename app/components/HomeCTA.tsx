@@ -12,7 +12,7 @@ export function HomeCTA() {
           retratos o un proyecto comercial. Hablemos.
         </p>
         <Link
-          href="/contacto"
+          href="/contact"
           className="inline-block bg-white text-gray-900 font-bold py-3 px-10 rounded-lg text-lg hover:bg-gray-200 transition-colors duration-300"
         >
           Contáctame

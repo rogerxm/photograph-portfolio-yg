@@ -30,7 +30,7 @@ export const HeroSection = () => {
             Ver Portafolio
           </Link>
           <Link
-            href="/contacto"
+            href="/contact"
             className="inline-block bg-transparent text-white font-bold py-3 px-8 rounded-lg text-lg border-2 border-white hover:bg-white hover:bg-opacity-20 transition-colors duration-300"
           >
             Contáctame

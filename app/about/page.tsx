@@ -60,7 +60,7 @@ export default function AboutPage() {
           ¿Listo para crear algo increíble?
         </h3>
         <Link
-          href="/contacto"
+          href="/contact"
           className="inline-block bg-gray-900 text-white font-bold py-3 px-10 rounded-lg text-lg hover:bg-gray-700 transition-colors duration-300"
         >
           Hablemos
